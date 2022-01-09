@@ -1,9 +1,5 @@
 #!/usr/bin/env node
 
-//this hook installs all your plugins
-
-// add your plugins to this list--either 
-// the identifier, the filesystem locationor the URL
 var pluginlist = [
     "org.apache.cordova.device",
     "org.apache.cordova.device-motion",
